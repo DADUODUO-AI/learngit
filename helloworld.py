@@ -1,2 +1,2 @@
 print("git learning")
-print("goodbye!")
+print("goodbye2!")
